@@ -15,37 +15,14 @@
             margin-top: 10px;
         }
     </style>
+    <script src="calcula_idade.js"></script>
 </head>
 
 <body>
     <h1>Eleições 2022:</h1>
     idade: <input type="number" name="txtidade" id="txtidade">
     <input type="button" value="Verificar" id="textverificar" onclick="verificar()">
-    <div id="res"></div>
-    <script>
-
-        function verificar() {
-            var txtidade = window.document.querySelector('input#txtidade')
-            var btn1 = window.document.querySelector('button#txtverificar')
-            var idade = Number(txtidade.value)
-            var result = window.document.querySelector('div#res')
-
-            if (idade < 16) {
-                result.innerHTML = `Não vota!`
-            }
-            else {
-                if (idade < 18 || idade > 65) {
-                    result.innerHTML = `Voto opcional!`
-                }
-                else {
-                    result.innerHTML = `Voto obrigatório!`
-                }
-
-            }
-        }
-
-
-    </script>
+    <div id="res"></div> 
 
 </body>
 
