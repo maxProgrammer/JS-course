@@ -1,4 +1,4 @@
-# JS-course
+# 🧑🏽‍🚀 JS-course 🧑🏽‍🚀
 
 > Status: Construction 🚧
 
