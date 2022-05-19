@@ -9,7 +9,7 @@
 </h1>
 
 <h1 align="center">
-  <img alt="Readme" title="Readme" src="https://user-images.githubusercontent.com/87916631/169391813-65b02fe0-efd8-4faf-8108-1f3136c177a2.gif"/>
+  <img alt="Readme" title="Readme" src="https://user-images.githubusercontent.com/87916631/169392862-7eed7fd4-5347-4045-8c68-9962f16e8f11.gif"/>
 </h1>
 
 ## ⚒️ Technologies
