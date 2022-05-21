@@ -1,6 +1,6 @@
 # 🧑🏽‍🚀 JS-course 🧑🏽‍🚀
 
-> Status: Construction 🚧
+> Status: Completed ✅
 
 ### EcmaScript course presented by Gustavo Guanabara
 
@@ -10,6 +10,10 @@
 
 <h1 align="center">
   <img alt="Readme" title="Readme" src="https://user-images.githubusercontent.com/87916631/169392862-7eed7fd4-5347-4045-8c68-9962f16e8f11.gif"/>
+</h1>
+
+<h1 align="center">
+  <img alt="Readme" title="Readme" src="https://user-images.githubusercontent.com/87916631/169629906-3ad71e74-2705-41d7-a1ef-a1bab8d087a8.gif"/>
 </h1>
 
 ## ⚒️ Technologies
